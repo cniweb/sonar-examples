@@ -2,7 +2,7 @@ This example demonstrates how to use the SonarQube web service API (manual_measu
 
 Documentation
 =============
-* http://docs.codehaus.org/x/iABuC
+* https://sonarqube.com/web_api/api/views
 
 Prerequisites
 =============
