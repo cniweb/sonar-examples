@@ -12,7 +12,7 @@
   <description>JavaScript Custom Rules</description>
 
   <properties>
-    <javascript.version>8.7.0.17093</javascript.version>
+    <javascript.version>10.13.0.25911</javascript.version>
   </properties>
 
   <dependencies>
