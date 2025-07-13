@@ -9,7 +9,7 @@
 	<packaging>sonar-plugin</packaging>
 
 	<properties>
-		<java.plugin.version>7.15.0.30507</java.plugin.version>
+		<java.plugin.version>7.25.0.32245</java.plugin.version>
 	</properties>
 
 	<name>Java Custom Rules</name>
